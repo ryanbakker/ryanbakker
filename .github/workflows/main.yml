@@ -11,13 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-        steps:
-        
-          name: Repositories traffic
-          uses: ryanbakker/metrics@master
-          with:
-            filename: metrics.plugin.traffic.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: repositories
-            plugin_traffic: yes
+    steps:
+          - uses: ryanbakker/metrics@master
+            name: Repositories traffic
+            with:
+              filename: metrics.plugin.traffic.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: repositories
+              plugin_traffic: yes
   
