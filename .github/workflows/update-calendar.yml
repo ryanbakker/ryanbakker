@@ -1,0 +1,24 @@
+name: Update Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ryanbakker/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # The username of the owner of the repository
+          username: ryanbakker
+          # The name of the repository
+          repository: ryanbakker
+          # The name of the branch to update
+          branch: main
+          # The path to the README.md file
+          path: README.md
+          # The section to update
+          section: calendar
