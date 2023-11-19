@@ -27,7 +27,7 @@ Hello there! 👋🏻  I'm a passionate Junior Web Developer embarking on an exc
 
 ### 📊 Stats
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-<img src="/metrics.plugin.languages.svg" alt="Most Used Languages" width="400">
+<img src="/metrics.plugin.languages.details.svg" alt="Most Used Languages" width="400">
 <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400">
 <img src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=react" alt="Ryan's Stats">
 <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
