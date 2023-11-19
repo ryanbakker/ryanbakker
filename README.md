@@ -1,35 +1,38 @@
 # 🧑🏻‍💻 Ryan Bakker
 
-`Working Under the Hood of Websites`
-
+`Working Under the Hood of Websites`<br/><br/>
 Hello there! 👋🏻  I'm a passionate Junior Web Developer embarking on an exciting journey in web development. I specialise in creating SEO-optimised websites using the latest and greatest technologies, with a keen focus on Next.js 14. Actively pursuing opportunities to dive into full-stack development, I contribute to open-source projects to continually grow and refine my portfolio. Excited to connect and collaborate — let's bring ideas to life! 🚀
+<br/>
+
+<i> Check out my website: <a href="https://ryanbakker.vercel.app" target="_blank">`https://ryanbakker.vercel.app`</a> </i>
+
+
 
 ---
 
 ### 🛠️ Languages & Tools
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Nextjs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://api.iconify.design/logos:notion-icon.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br/>
+<img align="left" alt="Javascript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML 5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS 3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Sass" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br/>
 
-#
+# 
 
-### Stats
-<p align="center"><img src="/github-metrics.svg" alt="GitHub Metrics" width="400"></p>
+### 📊 Stats
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<img src="/metrics.plugin.languages.svg" alt="Most Used Languages" width="400">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=react" alt="Ryan's Stats">
+<img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+<img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
+<img src="/metrics.plugin.calendar.svg" alt="Current Calendar" width="400">
+</div>
 
-<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400"></p>
 
-<p align="center"><img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400"></p>
-
-<p align="center"><img src="/metrics.plugin.languages.svg" alt="Most Used Languages" width="400"></p>
-
-<p align="center"><img src="/metrics.plugin.calendar.svg" alt="Current Calendar" width="400"></p>
-
-![Ryan's Stats](https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=react)
