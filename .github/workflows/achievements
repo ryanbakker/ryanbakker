@@ -1,0 +1,19 @@
+name: Detailed display
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: ryanbakker/metrics@master
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
