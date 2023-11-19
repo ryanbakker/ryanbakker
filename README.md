@@ -26,11 +26,11 @@
 
 ### 📊 Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
-<img style="max-width: 47%" src="/github-metrics.svg" alt="GitHub Metrics" width="400">
-<img style="max-width: 47%" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400">
-<img style="max-width: 47%" src="/metrics.plugin.languages.details.svg" alt="Most Used Languages" width="400">
-<img style="max-width: 47%" src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
-<img style="max-width: 46% !important" src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=transparent" alt="Ryan's Stats">
-<img style="max-width: 47%" src="/metrics.plugin.calendar.full.svg" alt="Current Calendar" width="400">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 120px;">
+<img style="max-width: 40%" src="/github-metrics.svg" alt="GitHub Metrics" width="400">
+<img style="max-width: 40%" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400">
+<img style="max-width: 40%" src="/metrics.plugin.languages.details.svg" alt="Most Used Languages" width="400">
+<img style="max-width: 40%" src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+<img style="max-width: 40% !important" src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=transparent" alt="Ryan's Stats">
+<img style="max-width: 40%" src="/metrics.plugin.calendar.full.svg" alt="Current Calendar" width="400">
 </div>
