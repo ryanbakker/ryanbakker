@@ -1,16 +1,15 @@
 # 🧑🏻‍💻 Ryan Bakker
 
-`Working Under the Hood of Websites`<br/><br/>
-Hello there! 👋🏻  I'm a passionate Junior Web Developer embarking on an exciting journey in web development. I specialise in creating SEO-optimised websites using the latest and greatest technologies, with a keen focus on Next.js 14. Actively pursuing opportunities to dive into full-stack development, I contribute to open-source projects to continually grow and refine my portfolio. Excited to connect and collaborate — let's bring ideas to life! 🚀
-<br/>
+`Working Under the Hood of Websites`<br/>
+
+<p style="font-weight: 300">Hello there! 👋🏻 I'm a passionate Junior Web Developer embarking on an exciting journey in web development. I specialise in creating SEO-optimised websites using the latest and greatest technologies, with a keen focus on Next.js 14. Actively pursuing opportunities to dive into full-stack development, I contribute to open-source projects to continually grow and refine my portfolio. Excited to connect and collaborate — let's bring ideas to life! 🚀 </p>
 
 <i> Check out my website: <a href="https://ryanbakker.vercel.app" target="_blank">`https://ryanbakker.vercel.app`</a> </i>
-
-
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Nextjs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -23,16 +22,15 @@ Hello there! 👋🏻  I'm a passionate Junior Web Developer embarking on an exc
 <img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br/>
 
-# 
+#
 
 ### 📊 Stats
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-<img src="/metrics.plugin.languages.details.svg" alt="Most Used Languages" width="400">
-<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400">
-<img src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=react" alt="Ryan's Stats">
-<img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
-<img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
-<img src="/metrics.plugin.calendar.svg" alt="Current Calendar" width="400">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<img style="max-width: 49%" src="/github-metrics.svg" alt="GitHub Metrics" width="400">
+<img style="max-width: 49%" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Full Year" width="400">
+<img style="max-width: 49%" src="/metrics.plugin.languages.details.svg" alt="Most Used Languages" width="400">
+<img style="max-width: 49%" src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+<img style="max-width: 49%" src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=transparent" alt="Ryan's Stats">
+<img style="max-width: 49%" src="/metrics.plugin.calendar.svg" alt="Current Calendar" width="400">
 </div>
-
-
