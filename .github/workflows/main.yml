@@ -11,17 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      
-    - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
-        uses: ryanbakker/metrics@master
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+        steps:
+        
+          name: Repositories traffic
+          uses: ryanbakker/metrics@master
+          with:
+            filename: metrics.plugin.traffic.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: repositories
+            plugin_traffic: yes
+  
