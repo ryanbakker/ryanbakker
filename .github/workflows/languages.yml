@@ -19,4 +19,4 @@ jobs:
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: percentage
-          plugin_languages_limit: 5
+          plugin_languages_limit: 6
