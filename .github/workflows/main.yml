@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -12,11 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-          - uses: ryanbakker/metrics@master
-            name: Repositories traffic
-            with:
-              filename: metrics.plugin.traffic.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: repositories
-              plugin_traffic: yes
-  
+      - uses: ryanbakker/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
