@@ -1,4 +1,4 @@
-name: Current year calendar
+name: Full history calendar
 
 on:
   # Schedule daily updates
@@ -8,14 +8,15 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  update-calendar:
+  full-calendar:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: ryanbakker/metrics@master
         with:
-          filename: metrics.plugin.calendar.svg
+          filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
+          plugin_calendar_limit: 0
