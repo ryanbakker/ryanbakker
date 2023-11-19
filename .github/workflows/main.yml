@@ -15,10 +15,10 @@ jobs:
       
     - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: ryanbakker/metrics@master
         with:
-          filename: achievements.svg
-          token: ${{ secrets.TOKEN }}
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
