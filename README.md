@@ -2,7 +2,7 @@
 
 `Working Under the Hood of Websites`<br/>
 
-<p style="font-weight: 300">Hello there! 👋🏻 I'm a passionate Junior Web Developer embarking on an exciting journey in web development. I specialise in creating SEO-optimised websites using the latest and greatest technologies, with a keen focus on Next.js 14. Actively pursuing opportunities to dive into full-stack development, I contribute to open-source projects to continually grow and refine my portfolio. Excited to connect and collaborate — let's bring ideas to life! 🚀 </p>
+<p style="font-weight: 300">Hello there! 👋🏻 I'm a passionate Web Developer embarking on an exciting journey in web development. I specialise in creating SEO-optimised websites using the latest and greatest technologies, with a keen focus on Next.js 14. Actively pursuing opportunities to dive into full-stack development, I contribute to open-source projects to continually grow and refine my portfolio. Excited to connect and collaborate — let's bring ideas to life! 🚀 </p>
 
 <i> Check out my website: <a href="https://ryanbakker.vercel.app" target="_blank">`https://ryanbakker.vercel.app`</a> </i>
 
