@@ -1,7 +1,7 @@
 name: Most used (with details)
 
 on:
-  schedule: [{cron: "0 */6 * * *"}]
+  schedule: [{cron: "0 */2 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
