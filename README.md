@@ -33,4 +33,5 @@
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=transparent" alt="Ryan's Stats" width="400">
   <img src="/metrics.plugin.calendar.full.svg" alt="Current Calendar" width="400">
+  <img src="https://www.boincstats.com/signature/-1/user/194362639338/sig.png" alt="BOINC Stats" width="400">
 </div>
