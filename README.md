@@ -112,6 +112,6 @@ Hi, I'm Ryan! A passionate developer currently studying for a Bachelor's in Comp
 
 Always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanbakker)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-bakker)
 
 </div>
