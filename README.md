@@ -94,10 +94,10 @@ Hi, I'm Ryan! A passionate developer currently studying for a Bachelor's in Comp
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" alt="Ryan's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=ryanbakker&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&bg_color=00000000" alt="Ryan's GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbakker&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbakker&layout=compact&langs_count=7&theme=transparent&hide_border=true&bg_color=00000000" alt="Top Langs">
     </td>
   </tr>
 </table>
