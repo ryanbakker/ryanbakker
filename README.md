@@ -12,7 +12,7 @@
 
 Hi, I'm Ryan! A passionate developer currently studying for a Bachelor's in Computer Science, with a particular interest in software development and AI/ML. I am experienced in modern web development with both Next.js and WordPress. Utilizing SEO optimization techniques and server-side rendering for the optimal user experience. My current focus is on Next.js 15 and actively pursuing opportunities to dive into full-stack development. Excited to connect and collaborate.
 
-[![Website](https://img.shields.io/badge/Visit%20My%20Website-667eea?style=for-the-badge&logo=link&logoColor=white)](https://ryanbakker.site)
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-667eea?style=for-the-badge&logo=link&logoColor=white)](https://ryanbakker.vercel.app)
 
 </div>
 
